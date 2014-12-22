@@ -35,33 +35,43 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Of the ende of this world, the seconde commyng of Christ a comfortable and necessary discourse, for 
+
+1. To the most reuerend Fathers in Christ, Edmond by the permission of almightie God, Archbyshop of Canterburie. &c. and Iohn Byshop of London, Thomas Rogers wisheth the true felicitie of this lyfe, and eternall happines by the comming of Christ.
+
+1. ¶To the vniuersall Church throughout the world, the most holy and chast daughter of Sion, and entirely beloued Spouse of Iesus Christ the Sonne of God, King of all Kings, Health, and comfort in the holy spirit, and the speed•e comming of her Bridegroome. &c.
+
+1. THE PREFACE.
+
 #####Body#####
 
-1. That the world shall not endure aboue sixe thousande yeares.
+1. ¶That there shalbe a destruction of this worlde, a resurrection of the fleshe, and a generall iudgement of all mankynde.
 
-1. That the world shall not endure sixe thousande yeeres.
+1. Of the second comming of Christ a comfortable Discourse.
 
-1. Many reasons and probable coniectures from the course of tyme.
+    _ That the world shall not endure aboue sixe thousande yeares.
 
-1. ¶ An application of Histories, and other Testimonies, with a short repetition of that which is spoken.
+    _ That the world shall not endure sixe thousande yeeres.
 
-1. ¶Of the fifteene hundred yeares after the Apostles tyme vntyl the last iudgement.
+    _ Many reasons and probable coniectures from the course of tyme.
 
-1. ¶ Of things past already, things to come are marueilously gathered,
+    _ ¶ An application of Histories, and other Testimonies, with a short repetition of that which is spoken.
 
-1. ¶Of the double equalitie of numbers which is represented in the number of yeares of the worlde happening •n the eyghtie eyght, and ninetie th••e yeare next ensuing.
+    _ ¶Of the fifteene hundred yeares after the Apostles tyme vntyl the last iudgement.
 
-1. ¶ Of the number of fiue, the fiue-folde forme, and of the Greeke letter χ.
+    _ ¶ Of things past already, things to come are marueilously gathered,
 
-1. ¶ Of the round and square figure, of the Climacterian yeares, and of the Golden number.
+    _ ¶Of the double equalitie of numbers which is represented in the number of yeares of the worlde happening •n the eyghtie eyght, and ninetie th••e yeare next ensuing.
 
-1. ¶ Of the manner and effect of the Lordes commyng to iudgement, with an exhortation to watchfulnes.
+    _ ¶ Of the number of fiue, the fiue-folde forme, and of the Greeke letter χ.
 
-1. JESVS CHRISTVS DEI FILIVS SERVATOR CRVX. Which verses of Sibyl, were thus turned into Latine.
+    _ ¶ Of the round and square figure, of the Climacterian yeares, and of the Golden number.
+
+    _ ¶ Of the manner and effect of the Lordes commyng to iudgement, with an exhortation to watchfulnes.
+
+    _ JESVS CHRISTVS DEI FILIVS SERVATOR CRVX. Which verses of Sibyl, were thus turned into Latine.
 
 #####Back#####
-Of the ende of this world, the seconde commyng of Christ a comfortable and necessary discourse, for 
+¶ Imprinted at London, nigh vnto the three Cranes in the Vintree, by Thomas Gardyner, and Thomas Daw
 **Types of content**
 
   * There are 100 **verse** lines!
